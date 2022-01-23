@@ -1,5 +1,10 @@
 https://firegit-1.web.app/SignIn
 
+Email - a@test.com
+PW - 123456
+
+You can create another user profile if you wants
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
