@@ -1,4 +1,4 @@
-https://firegit-1.web.app/SignIn
+https://firegit-1.web.app/
 
 Email - a@test.com
 PW - 123456
